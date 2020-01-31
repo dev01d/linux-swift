@@ -7,14 +7,17 @@ I made this because it's not officially in any of the package managers, I'm tire
 This one should age well because:
 
 1. It pulls the version number of the [latest release](https://github.com/apple/swift/releases/latest) tag From the Swift GitHub repo.
+
 2. Downloads the binary from [swift.org](https://swift.org/download/#releases)
 
-3. Installs them.
+3. Installs it.
 
 Also:
 
-4. Puts them in your PATH
+4. Puts it in your PATH
 
 5. Cleans up after itself
 
 6. Does the dishes (it won't)
+
+7. Can be used to update Swift versions
