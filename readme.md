@@ -6,7 +6,7 @@ I made this because it's not officially in any of the package managers, I'm tire
 
 This one should age well because:
 
-1. It pulls the version number of the [latest release](https://github.com/apple/swift/releases/latest) tag From the Swift GitHub repo.
+1. It pulls the version number of the [latest release](https://github.com/apple/swift/releases/latest) tag from the Swift GitHub repo.
 
 2. Downloads the binary from [swift.org](https://swift.org/download/#releases)
 
